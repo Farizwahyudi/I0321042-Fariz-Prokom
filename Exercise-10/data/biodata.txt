@@ -1,0 +1,6 @@
+Nama: d
+Umur: f
+Alamat: h
+Nama: w
+Umur: 3
+Alamat: d
